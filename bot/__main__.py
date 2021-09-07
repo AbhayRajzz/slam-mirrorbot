@@ -56,7 +56,7 @@ Made By @AbhayRajz
         sendMarkup(start_string, context.bot, update, reply_markup)
     else:
         sendMarkup(
-            'Chal be law*e nikal! Made for @AbhayRajz.',
+            'Bruh This is not your bot! Made for @AbhayRajz.',
             context.bot,
             update,
             reply_markup,
